@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "webworker": "0.8.x",
-    "dnode": "0.8.x"
+    "dnode": "1.0.0"
   },
   "devDependencies": {}
 }
